@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on building my portfolio website. You can take a look at www.gurkirt.com
+🔭 I’m currently working on building an iOS app that let users scan, clear trouble codes of a car using OBD2 WiFi adaptor.
 
 <!--
 **GurkirtSingh/GurkirtSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
